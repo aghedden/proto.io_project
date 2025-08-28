@@ -47,7 +47,7 @@ This prototype specifically focuses on the home screen dashboard of the NYT Game
 - Responsive Design: Adaptive layouts for different screen sizes
 
 ## Viewing the Prototype
-1. Visit the live demo: https://aghedded.github.io/proto.io_project/nyt_game_replica_fullscreen.html
+1. Visit the live demo: https://aghedden.github.io/proto.io_project/nyt_game_replica_fullscreen.html
 2. For best experience: View on mobile device or use browser developer tools to switch to mobile view
 3. Test vertical scrolling: Scroll up and down through the different game sections
 4. Test horizontal scrolling: Swipe left and right within each game row (Crossword, Spelling Bee, Wordle, Connections)
