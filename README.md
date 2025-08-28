@@ -1,2 +1,56 @@
-# proto.io_project
-Proto.io portfolio project consisting of a (semi) replica of the NYT Games app
+# NYT Games Replica - Proto.io UI Project
+A high-fidelity user interface replica of the New York Times Games mobile application, built using Proto.io to demonstrate advanced prototyping and UI design capabilities.
+
+## Project Overview
+This project showcases the recreation of the NYT Games app interface, focusing on core UI/UX principles and interactive design patterns. The replica demonstrates proficiency in modern prototyping tools and attention to detail in interface design.
+
+### Project Goals
+- UI Design Mastery: Demonstrate ability to recreate complex, real-world interfaces with accuracy using modern design tools
+- Proto.io Proficiency: Showcase advanced features of Proto.io including nested containers, scrolling, and interactions
+- User Experience Focus: Implement intuitive navigation patterns and responsive design elements
+- Interactive Prototyping: Create functional prototypes that simulate real app behavior
+
+### Project Scope and Limitations
+#### Project Focus & Scope
+This prototype specifically focuses on the home screen dashboard of the NYT Games app, emphasizing the main games discovery and navigation interface.
+
+#### Included Features
+- Main games dashboard interface
+- Multi-directional scrolling functionality
+- Interactive game selection
+  - Core games presentation (Crossword, Spelling Bee, Wordle, Connections)
+- Navigation between screens
+- Responsive layout components
+
+#### Intentional Exclusions: 
+*This project demonstrates mastery of home screen UI design and complex layout management rather than comprehensive app development. The focus on the dashboard interface allows for deep exploration of Proto.io's container and scrolling capabilities.*
+- Individual game interfaces: No gameplay screens or game-specific UI elements
+- Complete games catalog: Limited to 4 main games rather than the full NYT Games library
+- Secondary screens: Profile, settings, achievements, and other app sections
+- Game logic and playability: Focus on interface design rather than functional games
+- User authentication systems: No login/signup flows
+- Backend data integration: Static content presentation
+- Advanced animations: Emphasis on core scrolling and navigation over micro-interactions
+
+### Core Interface Elements
+- Game Grid Layout: Organized display of different NYT games (Crossword, Spelling Bee, Wordle, Connections)
+- Visual Hierarchy: Proper typography, spacing, and color schemes matching the original design
+- Interactive Game Cards: Clickable game tiles with hover states and visual feedback
+
+### Proto.io Features Utilized
+- Container System: Nested scrollable containers for complex layouts
+  - Primary vertical scrolling for overall page navigation
+  - Secondary horizontal scrolling within individual game rows
+- State Transitions: Screen-to-screen navigation with smooth animations
+  - Implemented inertia and boundary settings for natural feel
+- Touch Gestures: Swipe and tap interactions throughout the interface
+- Responsive Design: Adaptive layouts for different screen sizes
+
+## Viewing the Prototype
+1. Open the Proto.io project file (`nyt_game_replica_fullscreen.html`)
+2. Navigate to the main screen (you will be automatically taken there)
+3. Use Preview mode to interact with the prototype
+4. Test scrolling functionality in both directions
+
+### License 
+This project is created for educational and demonstration purposes. The NYT Games design is property of The New York Times Company.
